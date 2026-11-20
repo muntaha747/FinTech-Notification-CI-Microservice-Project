@@ -1,3 +1,9 @@
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/muntaha747/muntaha747/master/docs/diagrams/architecture-cicd-v14.svg" width="100%" alt="FinTech Enterprise regional architecture with CI/CD: Edge, App, Data and Ops VPCs, plus the pipelines for Ledger, Notification, Payment, Fraud and BFF"/>
+
+</div>
+
 # Notification Service · CI Build Pipeline (`FinTech-Notification-CI-Microservice-Project`)
 
 > **Programming language: Node.js.** This is a **Notification Service** microservice (the Java Spring Boot services are the Ledger; this service is written in Node.js).
